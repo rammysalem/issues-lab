@@ -1,6 +1,6 @@
 ---
 title: "This code has issues"
-author: "Your name here"
+author: "Rammy Salem"
 output: html_document
 ---
 
